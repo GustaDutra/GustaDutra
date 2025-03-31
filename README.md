@@ -6,7 +6,7 @@
 - 🔭 Estou trabalhando em uma empresa de análise de fraudes, atuo na área básica analisando documentos como fraudes ou não
 - 🌱 Atualmente aprendendo Phyton e me aprofundando em Java
 - 💬 Me pergunte sobre meus projetos!
-- 📫 How to reach me: Na internet eu prefiro usar o codinome LemonPie, você pode me achar no twitter ou no instagram pelo @OLemonPie, porém não uso muito o instagram pois o utilizo como portfolio artístico
+- 📫 Me chame via email: gustavoferdutra@gmail.com
 - 😄 Pronouns: ele/dele
 
 
