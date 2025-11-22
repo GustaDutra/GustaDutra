@@ -1,14 +1,12 @@
-## Oláaa✨
-### Sou o Gustavo, também conhecido como LemonPie
+## Hi!!✨
+My name is Gustavo, I'm a Computer Science student and graduated in Analysis and Development of Sistems
 
+Currently i work on two projects: 
+- "Tradulibras", a website that translates portuguese to Libras (Brazilian Sign Language)
+- ICSH RPG, my own RPG which has it's own website.
 
-
-- 🔭 Estou trabalhando em uma empresa de análise de fraudes, atuo na área básica analisando documentos como fraudes ou não
-- 🌱 Atualmente aprendendo Phyton e me aprofundando em Java
-- 💬 Me pergunte sobre meus projetos!
-- 📫 Me chame via email: gustavoferdutra@gmail.com
-- 😄 Pronouns: ele/dele
-
+  
+- 📫 Contact me via e-mail: gustavoferdutra@gmail.com
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olemonpie&show_icons=true&theme=cobalt)
