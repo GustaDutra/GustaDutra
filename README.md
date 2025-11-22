@@ -2,8 +2,8 @@
 My name is Gustavo, I'm a Computer Science student and graduated in Analysis and Development of Sistems
 
 Currently i work on two projects: 
-- "Tradulibras", a website that translates portuguese to Libras (Brazilian Sign Language)
-- ICSH RPG, my own RPG which has it's own website.
+- "Tradulibras", a website that translates portuguese to Libras (Brazilian Sign Language). I am responsible for the FrontEnd and design of the project, as well with some documentation for our university. 
+- ICSH (Super Human Crimes Institute) RPG, my own RPG which has it's own website, currently displaying custom spells for the players.
 
   
 - 📫 Contact me via e-mail: gustavoferdutra@gmail.com
